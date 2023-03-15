@@ -1,0 +1,32 @@
+
+/* CINZA */
+body.cinza{
+    background-color: grey;
+}
+
+/* VERDE */
+body.verde{
+    background-color: rgb(120, 231, 120);
+    color: rgb(4, 109, 4);
+}
+
+/* AMARELA */
+body.amarelo{
+    background-color: rgb(167, 167, 111);
+    color: rgb(241, 241, 142);
+}
+
+/* GLOBAL */
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: justify;
+    width: 50vw;
+    margin-bottom: 50px;
+}
+
+li{
+    margin-bottom: 10px;
+}
